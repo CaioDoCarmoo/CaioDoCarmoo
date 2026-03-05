@@ -6,5 +6,5 @@
 
 
 <p align="center">
-Sou Web Designer em transição para a área de desenvolvimento. Atualmente estudo JavaScript e tecnologias do seu ecossistema, como React.js, TypeScript e Node.js. Aqui no meu GitHub compartilho projetos, estudos e ideias, usando este espaço para registrar minha evolução como desenvolvedor, testar soluções e trocar conhecimento com outros desenvolvedores. Fique à vontade para explorar os projetos.
+Sou Web Designer em transição para a área de desenvolvimento. Atualmente estudo JavaScript e tecnologias do seu ecossistema, como React.js, TypeScript e Node.js. No meu GitHub compartilho projetos, estudos e ideias para registrar minha evolução como desenvolvedor, testar soluções e trocar conhecimento com outros desenvolvedores. Fique à vontade para explorar os projetos.
 </p>
