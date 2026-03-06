@@ -15,6 +15,16 @@ Sou Web Designer em transição para a área de desenvolvimento. Atualmente estu
 <br>
 <h2 align="center">My Github Stats :space_invader:</h2>
 
+<div align="center">
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/CaioDoCarmoo?cardType=github&theme=react&fontFamily=Pixelify%20Sans&preferLogin=false)](https://git.io/awesome-stats-card) 
+
+</div>
+
+
+
+
+
 
 
 
